@@ -20,4 +20,5 @@ Bibliotecas:
 - Scikit-learn: Algoritmos de aprendizado de máquina, como regressão, classificação, agrupamento e pré-processamento de dados.
 
 Autores e Colaboradores:Ícaro José
+
 Para mais informações, ler o relatório;
