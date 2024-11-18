@@ -19,6 +19,6 @@ Bibliotecas:
 - Matplotlib: Criação de gráficos e visualizações em 2D (como linhas, barras, dispersão, etc.).
 - Scikit-learn: Algoritmos de aprendizado de máquina, como regressão, classificação, agrupamento e pré-processamento de dados.
 
-Autores e Colaboradores:Ícaro José
+Autores e Colaboradores:Ícaro José Batista de Oliveira
 
 Para mais informações, ler o relatório;
